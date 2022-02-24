@@ -1,0 +1,451 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The catholic medicine, and soverain healer rectifying and assisting the depraved functions, of infirm and diseased bodies : for reducing and curing in all cases, enabling thereby to digest, expectorate, transpire, open, dissolve, discuss, evacuate, cleanse, purifie, allay, ease, heal, strengthen, and restore the decayed parts of unsound and distempered bodies : confirm'd by demonstrations of fact, in eminent cases performed : communicated to the world, as the most happy, comprehensive, expedient, preventive and curative, against the diseases of humane nature / by a strict examiner of medical art.</title>
+            <author>Maynwaringe, Everard, 1628-1699?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50431</idno>
+            <idno type="STC">Wing M1490</idno>
+            <idno type="STC">ESTC R18244</idno>
+            <idno type="EEBO-CITATION">11871374</idno>
+            <idno type="OCLC">ocm 11871374</idno>
+            <idno type="VID">50131</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50431)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50131)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 501:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The catholic medicine, and soverain healer rectifying and assisting the depraved functions, of infirm and diseased bodies : for reducing and curing in all cases, enabling thereby to digest, expectorate, transpire, open, dissolve, discuss, evacuate, cleanse, purifie, allay, ease, heal, strengthen, and restore the decayed parts of unsound and distempered bodies : confirm'd by demonstrations of fact, in eminent cases performed : communicated to the world, as the most happy, comprehensive, expedient, preventive and curative, against the diseases of humane nature / by a strict examiner of medical art.</title>
+                  <author>Maynwaringe, Everard, 1628-1699?</author>
+               </titleStmt>
+               <extent>18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Gain for R. Horn, T. Basset, and C. Blount,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Everard Maynwaringe. cf. Halkett and Laing.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine, Popular --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50131:1" rendition="simple:additions"/>
+            <p>THE Catholic Medicine, AND <hi>Soverain Healer.</hi> Rectifying and Aſſiſting the Depraved Functions, of Infirm and Diſeaſed Bodies; for Reducing and Curing, in all Caſes. Enabling thereby to <hi>Digeſt, Expectorate, Tranſpire, Open, Diſſolve, Diſcuſs, Evacuate, Cleanſe, Purifie, Allay, Eaſe, Heal, Strengthen,</hi> and <hi>Reſtore;</hi> the Decayed Parts, of Unſound and Diſtempered Bodies. Confirm'd by Demonſtrations of Fact; in <hi>Eminent Cures</hi> performed. Communicated to the World, as the moſt Happy, Comprehenſive Expedi<g ref="char:EOLhyphen"/>ent; <hi>Preventive</hi> and <hi>Curative;</hi> againſt the Diſeaſes of Humane Nature.</p>
+            <p>By a Strrict EXAMINER of MEDICAL ART.</p>
+            <q>Deus Omnipotens Creavit, Dictavit, &amp; Benedixit; Medicus fecit; idem ac ſuo Corpore, aliiſque perituris, feliciter probavit: Cujus effecta mirabilia, notatu maxime digna; in landem Creatoris; nec non creaturae ſalutem; è tenebris Mundo afful<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>erunt.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Gain;</hi> for <hi>R. Horn</hi> at the South Entrance of the <hi>Royal-Exchange: T. Baſſet,</hi> at the
+<hi>George</hi> in <hi>Fleet-ſtreet:</hi> and <hi>C. Blount</hi> at
+<hi>Charing-Croſs:</hi> Bookſellers. 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:50131:2"/>
+            <pb n="3" facs="tcp:50131:2"/>
+            <head>THE CATHOLIC MEDICINE. AND <hi>Soverain Healer,</hi> &amp;c.</head>
+            <p>'TIS Proverbially ſaid, <hi>That a Fool's Bolt is ſoon ſhot:</hi> And it is as certain a Character of the <hi>Wiſe</hi> and
+<hi>Diſcreet;</hi> to ſuſpend their Judgment or Cenſure upon any thing; until deliberate Examination, and Inquiry in<g ref="char:EOLhyphen"/>to the Matter: leſt afterwards they ſhould recant, and correct their Miſtake, with a <hi>Non putâram</hi> —</p>
+            <p>There are Wonders in Nature; and ſometimes, wonderful Things produced by <hi>Art</hi> or <hi>Accident;</hi> that ſcarce any <hi>Age</hi> paſſeth, without ſome inſignal Diſcovery; as the Records of Hiſtory ſufficiently teſtify. <hi>Gunpowder,</hi> that ſtupendious thun<g ref="char:EOLhyphen"/>dering Deſtroyer was the Wonder of that <hi>Age</hi> which produced it; and few believed the Report, but ſuch as heard and ſaw: and a <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Preſervative,</hi> or <hi>Catholick</hi> Curing Medicine, may happily be the Prodigy of our preſent Time; and perhaps alike Incredible to the World; except only to <hi>Such,</hi> as have experimented, or ſeen the various great Effects of its previaling Power; againſt humane Infirmities, and dangerous contumacious Diſeaſes.</p>
+            <p>In the Writings of ſome <hi>Philoſophers</hi> and
+<hi>Phyſitians,</hi> Men eſteemed and famed in their Times, for Learning; I find a <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Medicine</hi> mentioned by them, and ſtrongly affirmed for a real Truth; where alſo both the <hi>Matter</hi> and
+<hi>Proceſs</hi> of Pre<g ref="char:EOLhyphen"/>paration are darkly hinted; to put Learned Ingenuity upon the Search, and diligent Tryals to purchaſe it. If ſuch a rare
+<hi>Medicine</hi> were attainable in thoſe days; there is a greater probability for the gaining of it <hi>now;</hi> Knowledge generally ſince, arriv<g ref="char:EOLhyphen"/>ing to a higher pitch; accumulating by dayly Experience, and ſtudy for Improve<g ref="char:EOLhyphen"/>ments by Induſtrious Wits. If ſuch a <hi>Jewel</hi> was found, and ſince loſt again; or con<g ref="char:EOLhyphen"/>cealed, as not to appear in the World for publick Uſe; I Judge it might be ſo in favour to the <hi>Medical Art,</hi> and the
+<hi>Profeſſors</hi> thereof; leaſt the ſtately Fabrick of this Learned
+<hi>Science</hi> be ruined thereby, and the Profeſſors become almoſt Uſeleſs, or of little Worth: for ſuch a general Comprehenſive
+<hi>Medicine,</hi> applying fitly to the moſt, if not all Caſes; is eaſily managed without the help of a <hi>Phyſitian.</hi> If ſo, it may be, as not irrational to ſuppoſe (and <hi>Intereſt</hi> governs the World) we may the leſs wonder, that a <hi>Catholick</hi> or <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Medicine</hi> is now a Stranger in the World: and the Wonder is not ſo great, if ſuch a thing do appear in the World again; ſince it is the Purchaſe of Learned Labour; or the Fortunate Free Gift of ſome Caſual Experiment; both which hath furniſhed Mankind with great Diſcoveries, and won<g ref="char:EOLhyphen"/>derful Rarities that are now grown <hi>Common.</hi>
+            </p>
+            <p>Touching the poſſibility and probability of a <hi>Catholick Medicine:</hi> Nature is en<g ref="char:EOLhyphen"/>dowed or furniſhed, with <hi>Catholick</hi> or
+<hi>
+                  <g ref="char:V">Ʋ</g>niverſal Food;</hi> why not with <hi>Catholick</hi> Phy<g ref="char:EOLhyphen"/>ſick?
+<pb n="4" facs="tcp:50131:3"/>
+               <hi>Water</hi> was the <hi>
+                  <g ref="char:V">Ʋ</g>niverſal</hi> Drink of the World, ſo given, and ſo uſed, in the Primitive Age; for all
+<hi>Conſtitutions, Ages,</hi> and both <hi>Sexes:</hi> and <hi>Bread</hi> is
+<hi>Catholick</hi> Food, agreeable to humane Nature, and uſed by People of all ſorts. If Nature can convert one ſimple <hi>Meat</hi> to divers Uſes, in different parts of the Body; why can ſhe not be Helped and Cured in thoſe various Parts, by one ſingle ſupream <hi>Medicine?</hi> Can Nature frame ſuch a curious Contrivance as Man's <hi>Body,</hi> of <hi>Bread</hi> and <hi>Water;</hi> and if we allow a piece of Fleſh too, cannot ſhe as eaſily mend this <hi>Machine,</hi> when out of Order, with an exquiſite ſingle Medicine, compoſed of a few choice Ingredients, well Prepared, congruouſly aſſociated and fitted for her Uſe?</p>
+            <p>But <hi>Diſeaſes,</hi> you'l ſay, are various, and ſometimes contrary to each other. Some Bodies require <hi>Binding,</hi> others <hi>Looſning;</hi> ſome <hi>Heating,</hi> others <hi>Cooling,</hi> &amp;c. And one Medicine cannot work contrary Effects. I anſwer in ſhort; The ſame <hi>Hand</hi> and <hi>Hammer</hi> that can draw a <hi>Nail</hi> out, can drive a <hi>Nail</hi> in; and ſay no more.</p>
+            <p>If <hi>Nature</hi> be ſo curious an <hi>Architect,</hi> or
+<hi>Worker,</hi> as we ſaid before; (far beyond all <hi>Artiſts,</hi> who are but her Apes) ſhe can probably with one choſen Inſtrument, or well contrived <hi>Medicine,</hi> perform ſeveral Works therewith; uſing it as ſhe pleaſeth, to effect what ſhe ſtands in need of: <hi>Nature</hi> is a dextrous <hi>Agent,</hi> and can do wonder<g ref="char:EOLhyphen"/>fully for her Help, with the Aſſiſtance of a <hi>Soverain</hi> Remedy. Can Humane Nature, of
+<hi>Bread</hi> and <hi>Water,</hi> make <hi>Chyle, Blood, Nervous Juice, Sperme,</hi> and <hi>Milk;</hi> various Liquors for diver Uſes, of the ſame Alimental Matter? Can this Nature make <hi>Blood</hi> here, <hi>Fleſh</hi> there, and <hi>Bones</hi> in an other place of the ſame Food? Can ſhe diſtribute this Nutrimental Matter, into all parts of the Body, and ſo tranſmute or alter, as to be a fit and convenient Supply and Support of the ſeveral Members, differing in Office, Form, and Temperature: <hi>Brain, Heart, Lungs, Liver, Spleen, Reins,</hi> &amp;c. Working thus variouſly and wonderfully upon the ſame Subſtance or Matter, and converting it how ſhe pleaſeth, for her neceſſary Uſes? Then <hi>(a majore)</hi> if ſhe can do the <hi>greater,</hi> probably, and more eaſily the <hi>leſſer:</hi> Can ſhe not relieve her ſelf, Diſeaſed (imped<g ref="char:EOLhyphen"/>ed and diſturbed in her proper uſual <hi>Courſe</hi>) by the help of a generous brave
+<hi>Medi<g ref="char:EOLhyphen"/>cine,</hi> well deſigned and compoſed for her general Uſe? Can ſhe not convey this <hi>Medi<g ref="char:EOLhyphen"/>cal Inſtrument</hi> into all Parts, to ſet them right? Probably, as well by a ſingle <hi>Medi<g ref="char:EOLhyphen"/>cine,</hi> as by many; and perhaps better: If this <hi>Medicine</hi> be compleat and commodious for her Management; ſuch an one as is pliable and obedient to her Command, yield<g ref="char:EOLhyphen"/>ing like <hi>Wax,</hi> to any Impreſſion, and ſerving to any Purpoſe ſhe ſhall imploy it: If ſhe can work ſo variouſly with a ſimple nouriſhing Juice, as <hi>Chyle;</hi> why not then as variouſly with a ſingle Curing <hi>Medicine?</hi> If Nature can maintain and feed all parts of the Body with one ſort of Food; then probably, and very reaſonably, ſhe may Mend or Cure all thoſe Parts with one <hi>Medicine;</hi> provided it be ſo formed and fitted, of that Latitude as will anſwer all her Operations.</p>
+            <p>I perceive now, that <hi>Wonders</hi> are wrought in Man's Body every day; and being in Health: but we cannot ſo eaſily believe
+<hi>Wonders</hi> to be wrought by a <hi>Medicine</hi> in <hi>Sick<g ref="char:EOLhyphen"/>neſs.</hi> If Nature can do <hi>Wonders</hi> with <hi>Aliment,</hi> as likely it is, ſhe can do <hi>Wonders</hi> with <hi>Medicament.</hi> Why ſhould we then, be ſo hard to believe the <hi>Curing Wonder,</hi> and doubt not at all in the
+<hi>Feeding</hi> or <hi>Nouriſhing Wonder?</hi> But you will ſay, <hi>That Ali<g ref="char:EOLhyphen"/>ment<pb n="5" facs="tcp:50131:3"/>is flexible, and obedient to the power of Nature, who eaſily converts it to divers <g ref="char:V">Ʋ</g>ſes.</hi> And I ſay, if you can make a
+<hi>Medicine</hi> thus pliable, and yielding to the power of Na<g ref="char:EOLhyphen"/>ture; 'tis poſſible then, you may make it thus generally uſeful for
+<hi>Curing.</hi>
+            </p>
+            <p>I underſtand now the poſſibility to be very fair and reaſonable on <hi>Nature's</hi> ſide; that ſhe can manage a <hi>Catholic Medicine</hi> very well, to ſerve all her Deſigns and Pur<g ref="char:EOLhyphen"/>poſes for
+<hi>Curing,</hi> if ſhe had but ſuch an Inſtrument to act with: but the poſſibility of deſigning, forming, and making this <hi>Catholic</hi> Inſtrument, lyes not ſo eaſie and proba<g ref="char:EOLhyphen"/>ble on the <hi>Phyſitian's</hi> ſide: it is like to fail on his part, he knows not how, nor which way to go about it; SUPERAT CAPTUM. Nature is willing to receive rea<g ref="char:EOLhyphen"/>dy to operate with ſuch an Expedient, as a <hi>Catholic Medicine,</hi> if you had it to give her.</p>
+            <p>
+               <hi>Huc uſque deventum eſt:</hi> So far, ſo good: we are now got half way through this hard knotty Buſineſs, we only want a Phyſician to go through the other half, to per<g ref="char:EOLhyphen"/>form the <hi>Medicine:</hi> but now I remember, making of <hi>Medicines</hi> is the <hi>Apothecaries</hi> Buſineſs, and the <hi>Doctor</hi> only preſcribes what, and how it muſt be made: But the <hi>Ca<g ref="char:EOLhyphen"/>tholic Medicine</hi> will not be made after that manner, the <hi>Apothecary-Doctor</hi> is not like to do the Buſineſs, ſo long as he makes <hi>Medicines</hi> by gueſs, with Pen and Ink upon a piece of Paper only: he muſt take a little more pains than in reading and writing: this is no Book <hi>Medicine;</hi> he muſt operate in the <hi>Laboratory</hi> too, if ever he will gain the <hi>Catholic Medicine.</hi> We muſt find out another, that is long experienced in the Pre<g ref="char:EOLhyphen"/>paration of <hi>Medicines,</hi> a diligent <hi>Operator,</hi> ſtriving earneſtly to purchaſe ſomething Excellent, by various Tryals and Experiments beyond. Book Reading; ſuch a Man may happily find out this great <hi>Arcanum.</hi>
+            </p>
+            <p>Perhaps you will ſay, there have been ſuch <hi>Seeking</hi> Men, that have not found what they ſought and laboured after: can you tell us how, or which way they muſt go a<g ref="char:EOLhyphen"/>bout it, that they may not ſeek longer in vain?</p>
+            <p>I'll tell you as I was told, and will put you into the ſame Path, that led the Au<g ref="char:EOLhyphen"/>thor hereof to this hidden Treaſure. <hi>Nature Corroborate eſt morborum medicatrix.</hi> This is the way that leads to the
+<hi>Catholic Medicine,</hi> follow the Track, be guided by this Dictate, and God ſpeed you — This golden Saying, <hi>Nature Corrchorata</hi> — were the words of <hi>Helmont;</hi> and <hi>Hypocrates</hi> hinted the ſame many hundred years before him. <hi>Nature</hi> ſtrengthened and aſſiſted, is the Curer of Diſeaſes.</p>
+            <p>
+               <hi>Nature</hi> is <hi>Medicatrix,</hi> and Medicine is
+<hi>Inſtrumentum:</hi> 'tis Nature that heals <hi>prima<g ref="char:EOLhyphen"/>riò &amp; immediatè Medicine</hi> Cures <hi>reinotè &amp; inſtrumentaliter;</hi> as an Inſtrument that Nature uſeth to work by: for except Nature doth take hold of, and cloſe with this Inſtrument, to exerciſe it for her Help, performing ſome Operation therewith, in order to
+<hi>Curing;</hi> elſe <hi>Medicine</hi> is given in vain, and effects nothing: and this we may be<g ref="char:EOLhyphen"/>lieve, that no <hi>Medicine</hi> directs it ſelf here or there in the Body; but <hi>Nature</hi> (which is the Life) diſpoſeth of it to this part, or that, as ſhe ſtands in need, conveying both <hi>Nutriment</hi> and <hi>Medicament</hi> at her pleaſure; at leaſt, to her power; and there is no<g ref="char:EOLhyphen"/>power elſe.</p>
+            <p>If <hi>Nature</hi> be <hi>Medicatrix,</hi> and <hi>Medicine</hi> is only Aſſiſtant; then, <hi>invita Natura.</hi> Na<g ref="char:EOLhyphen"/>ture refuſing ot act with the <hi>Medicine,</hi> no good can be done: nor can the beſt Food give Nouriſhment to the Body, if <hi>Nature</hi> doth not convert it to the proper Uſe and<pb n="6" facs="tcp:50131:4"/>Intention. If ſo, then <hi>Medicine</hi> ought to be ſuch as muſt not diſguſt, not diſturb her, that ſhe may readily receive and act therewith chearfully.</p>
+            <p>If <hi>Nature</hi> be <hi>Medicatrix,</hi> the Curer of all
+<hi>Diſeaſes,</hi> then doubtleſs ſhe knows beſt where the
+<hi>Diſeaſe</hi> lyes, and which way ſhe muſt be helped: and no
+<hi>Phyſitian</hi> is ſo ſharp ſighted, to ſee where; nor ſo diſcerning, to know what, is moſt expedient and proper for Relief; but many times, inſtead of <hi>Helping,</hi> he does <hi>Hurt,</hi> miſtaking the Caſe; rather troubling, than aſſiſting or relieving, by forcing a wrong
+<hi>Operation,</hi> or promoting the <hi>Right</hi> with a <hi>Bad</hi> Medicine: and better it is to do nothing, than ſuch injurious meddling:
+<hi>Experience</hi> tells us, that many a ſick Perſon hath been made worſe by <hi>Medicines; Naeture</hi> more perplexed, and
+<hi>Diſeaſes</hi> exaſperated thereby. Now here lyes the Excellency of the <hi>Catholic Medicine,</hi> that it doth not conſtrain, or force
+<hi>Nature</hi> to any particular <hi>Operation,</hi> but is fit for any, and promotes that which <hi>Na<g ref="char:EOLhyphen"/>ture</hi> elects ror her Relief. By this you may perceive the difference between a <hi>Com<g ref="char:EOLhyphen"/>mon</hi> Medicine, and a
+<hi>Catholic:</hi> Other <hi>Medicines</hi> conſtrains <hi>Nature</hi> to ſuch, or ſuch a particular <hi>Operation;</hi> which if the Caſe doth not require it, but <hi>Nature</hi> would act another way, more advantageous, you then contend with, and thwart <hi>Nature,</hi> and inſtead of
+<hi>Helping,</hi> you offer <hi>Violence</hi> and <hi>Injure</hi> her; that
+<hi>Medicine</hi> is as another <hi>Diſeaſe,</hi> added to what ſhe complained of before; and <hi>Nature</hi> ſtruggles with this
+<hi>Croſs</hi> Medicine, and doth not comply with the <hi>Operation,</hi> to effect any <hi>Good:</hi> and this is eaſie to be diſcerned oftentimes upon a Medicine given; inſtead of an Allay and Mitigation, the Diſeaſed Perſon complains more, <hi>Nature</hi> being unwilling to go that way as the Medicine compells; the Conſequents then muſt needs be ill, and the
+<hi>Phyſitian's</hi> Deſignment fruſtrated.</p>
+            <p>
+               <hi>Natura Corroborata</hi> — Is that the way to the
+<hi>Catholic</hi> Medicine? And is that the way to effect <hi>Cures?</hi> Then you muſt be very careful and wary, that you do not debi<g ref="char:EOLhyphen"/>litate <hi>Nature by irksome, nauſeous, exhauſting, painful</hi> Medicines: and if ſo, then a great many are much out of the way, whoſe Medicines and Methods enfeeble
+<hi>Nature</hi> by large Exhauſtions, and <hi>tyering</hi>-Medicines, that overload, fret, and grieve <hi>Nature,</hi> not contributing to her ſtrengthening and aſſiſtance, but the contrary.</p>
+            <p>There are three ſorts of <hi>
+                  <g ref="char:V">Ʋ</g>nlucky</hi> Medicines? the
+<hi>one</hi> ill compoſed, or aſſociated, and <hi>incongruous</hi> of
+<hi>Compoſition,</hi> not agreeing within it ſelf. The <hi>ſecond,</hi> are ſuch, whoſe <hi>Ingredients,</hi> or the Preparation of them, are diſguſtful to <hi>Nature,</hi> and not fit to be ex<g ref="char:EOLhyphen"/>hibited to any Body. There is a <hi>third</hi> ſort; which although tolerably good in them<g ref="char:EOLhyphen"/>ſelves, and innocent; yet being given <hi>unduly</hi> and
+<hi>unſeaſonably,</hi> when <hi>Nature</hi> requires a Medicine of another
+<hi>Operation:</hi> this is an <hi>
+                  <g ref="char:V">Ʋ</g>nlucky</hi> and <hi>unfortunate</hi> Medicine alſo, and ſtrains <hi>Nature</hi> the wrong way: neither of theſe three do <hi>Corroborate Nature,</hi> but <hi>debilitate</hi> and
+<hi>deject.</hi> No wonder then, that ſo many <hi>pale Faces</hi> and
+<hi>thin Chaps</hi> ap<g ref="char:EOLhyphen"/>pear after <hi>Phyſicking,</hi> ſince there are ſo many <hi>
+                  <g ref="char:V">Ʋ</g>nlucky</hi> Medicines abroad in the World, or unluckily appointed and given. Truly, if <hi>Nature</hi> be fretted, gall'd, or oppreſt with ſuch <hi>unwelcome, diſgusting</hi> Medicines, ſhe will make ſigns of her ill Uſage: but if you give good Medicines, ſuch as do <hi>corroborate, help</hi> and <hi>aſſist,</hi> her Smiles and good Looks will declare it.</p>
+            <p>
+               <pb n="7" facs="tcp:50131:4"/>I might proceed far in Diſcourſe, touching the great difference between the com<g ref="char:EOLhyphen"/>prehenſive <hi>Catholic</hi> Medicine, and the narrow, ſtrait-lac'd Medicines, ty'd up to ſome particular
+<hi>Operation</hi> and <hi>Punpoſe;</hi> as alſo concerning the reaſonableneſs and fair pro<g ref="char:EOLhyphen"/>bability in <hi>Art,</hi> to deſign and effect a Medicine of <hi>Catholic</hi> Latitude: but I ſhall not ſpend more time now in <hi>Reaſoning,</hi> but come to the <hi>Practical</hi> part of our Buſineſs, and prove by <hi>Fact,</hi> what you are not convineed of by
+<hi>Reaſon.</hi> If you cannot trace it in the <hi>Cauſes,</hi> ſuch ſufficient it is if I ſhew it plain in the <hi>Effects: Experiment</hi> is above all Ar<g ref="char:EOLhyphen"/>gunments, and <hi>Reaſon</hi> is ſilenced, when <hi>Fact</hi> determines without it, or againſt it. Il know, your chief Deſire is to ſee what <hi>Extraordinary,</hi> this Medicine hath, and can do; and I ſhall ſatisfie you therein; for it were a Crime to conceal what this Medicine hath effected, and what <hi>Help</hi> it affords to <hi>Nature,</hi> diſtreſſed and languiſhing, above the power of any orlier Medicine; which I ſhall ſhew you, as followeth.</p>
+            <p>The <hi>Author</hi> or <hi>Inventer</hi> of this Medicine, was the
+<hi>Maker</hi> of it; and alſo the firſt <hi>Patient</hi> that try'd it upon his own Body. The occaſion was rather urgent, than of curioſity to be ſatisfy'd: which in plain <hi>Dealing,</hi> and as ſhort as I can (avoiding terms of <hi>Art</hi> as much as may be) was thus.</p>
+            <p>Being uport a Journey, the third days Riding cauſed a <hi>Bloody <g ref="char:V">Ʋ</g>rine,</hi> or rather per<g ref="char:EOLhyphen"/>foot <hi>Blood,</hi> iſſuing that way, about half a pint at once, being newly alighted at my <hi>Inn.</hi> This much ſurpriſed me, being about fifty miles from <hi>Home,</hi> and ſuch a diſtance from my own Medicines, it troubled me: for I was very unwilling to make uſe of <hi>Countrey</hi> Help, knowing well enough how the
+<hi>Medicine-Trade</hi> is managed. The firſt Expedient I pitch upon for Remedy, was <hi>Rheniſh-Wine</hi> and <hi>Spring-Water,</hi> ſweetned with a little <hi>Loaf-Sugar.;</hi> of which having drunk about a Pint, I made
+<hi>pale <g ref="char:V">Ʋ</g>rine,</hi> and very clear, no ſign of <hi>Blood</hi> appearing; at which I was well pleaſed, and drank the ſame at Meals alſo. This
+<hi>Haemorrhage</hi> thus ceaſing, and having a hundred Miles to ride further (after a days reſt) I wont on the Journey: but afterwards, Riding brought it upon me again; and I had recourſe to the aforeſaid Remedy, which ſtopt it ſeveral times.</p>
+            <p>Coming to <hi>London,</hi> I found my ſelf much diſabled by this Accident in the <hi>Journy,</hi> and afflicted with <hi>Pain</hi> and
+<hi>Heavineſs</hi> at the <hi>Region</hi> of the <hi>Back,</hi> chiefly the
+<hi>Left Kid<g ref="char:EOLhyphen"/>ney,</hi> and ſometimes a <hi>Bloody <g ref="char:V">Ʋ</g>rine.</hi> But as many People uſe to do, I proſecuted my other Occaſions (being then urgent upon my Return) and neglected my Preſervati<g ref="char:EOLhyphen"/>on; until I was forced to betake my ſelf to <hi>Medicines;</hi> which I did at vacant days, but not ſo ſtrictly as I ought, by Retirement from all Buſineſs, ſo that the
+<hi>Deſeaſe</hi> abat<g ref="char:EOLhyphen"/>ed little, or nothing, ſaving ſome
+<hi>Eaſe</hi> and <hi>Intermiſſions</hi> at times: but upon much walking, or ſhaking by <hi>Coach,</hi> thoſe <hi>Symtoms</hi> returned again, and ſometimes ſtrains of <hi>Blood</hi> by Stools. I then began to obſerve ſtrickly the <hi>
+                  <g ref="char:V">Ʋ</g>rine,</hi> which was ſtrong ſcent<g ref="char:EOLhyphen"/>ed, with a foul Sediment in the <hi>
+                  <g ref="char:V">Ʋ</g>rinal,</hi> after five or ſix hours ſtanding. This gave me Information of an <hi>
+                  <g ref="char:V">Ʋ</g>lcer</hi> placed in the <hi>Kidney;</hi> and I was then ſufficiently alaram'd of the danger, and drew off from all Buſineſs, applying earneſtly to means, by <hi>Dyet-Drink, Pills,</hi> and other <hi>Medicines.</hi>
+            </p>
+            <p>But the <hi>Diſenſe</hi> having gained ſuch advantage by former delay, that what I had uſed did not check it, but proceeded higher and more formidable. The <hi>extravaſed Blood</hi> not ſufficiently diſcharged by the <hi>
+                  <g ref="char:V">Ʋ</g>rinary Ducture,</hi> nor by <hi>Stool;</hi> but being collected<pb n="8" facs="tcp:50131:5"/>from the <hi>Left Kidney,</hi> to the <hi>Left Hypogaſter;</hi> formed a <hi>Tumor</hi> there, between the <hi>Flan<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and <hi>Navel,</hi> like a weighty Lump, which was very troubleſome, lying on the <hi>Right Side,</hi> but more eaſie on the
+<hi>Left;</hi> to ſtretch, cauſed pain there; or to turn in Bed, except very gently. This <hi>Tumor</hi> preſſing upon the <hi>Inteſtines,</hi> or <hi>Guts,</hi> ſtopped the paſſage, that I had no <hi>Stool</hi> for three or four days together, unleſs procured by <hi>Phyſick,</hi> and that with difficulty; alſo ſomething elſe remarkable, which I forbear to mention. The <hi>Tumor</hi> thus continuing for a <hi>Fortnight,</hi> or three
+<hi>Weeks,</hi> and not diſcuſſing, but lock't up, inclin'd to
+<hi>Suppuration;</hi> during which time, for about a <hi>Weeks</hi> ſpace, a ruſhing noiſe, like <hi>Wind</hi> and <hi>Waters,</hi> much moleſted my
+<hi>Head;</hi> and fearing the dangerous Conſequents of the
+<hi>Apoſtemation,</hi> that might deſtroy the <hi>Formation</hi> and
+<hi>Communication</hi> of <hi>Parts,</hi> rendring them uncapable of their Office: I ſeriouſly conſi<g ref="char:EOLhyphen"/>dered with my ſelf what to do in this hazardous Juncture, as finding the <hi>Method</hi> and <hi>Medicines</hi> I had taken, to be ineffectual; the <hi>Diſeaſe</hi> increaſing more
+<hi>terrible,</hi> and probably, <hi>mortal,</hi> unleſs ſome other Means were uſed.</p>
+            <p>Thus anxiouſly conſidering, I bethought my ſelf of a Medicine, which long be<g ref="char:EOLhyphen"/>fore I had begun to form the Deſignment; and had noted it in my Papers, intending at ſome leaſure times to review and perfect the Deſigne thereof. This <hi>Medicine</hi> con<g ref="char:EOLhyphen"/>tinued in my thoughts a day and a night, adding and altering in my mind variouſly (as having but this Caſt for my Life) but coming to a reſult, and determing at laſt, both the <hi>Matter</hi> and <hi>Proceſs,</hi> I prepared for it, and was earneſt to finiſh, that I might come to the tryal; (time was then precious) and being much perſwaded in my mind, that this was as hopeful means, as
+<hi>Art</hi> could procure; and having ſome Preparati<g ref="char:EOLhyphen"/>ons by me, ſerving to this purpoſe, I ſooner finiſhed the Work.</p>
+            <p>The <hi>Medicine</hi> being made, next morning after early, I took a <hi>Doſe</hi> thereof, a <hi>Dram</hi> in weight, and perceived no manifeſt Operation, until <hi>Afternoon;</hi> then a gentle motion downwards, and at night another; I felt no diſturbance by the <hi>Medicine,</hi> all the day, but <hi>Eaſie</hi> in Body. This pleaſed me much, that the
+<hi>Medicine</hi> was ſo a<g ref="char:EOLhyphen"/>greeable and gentle, and the <hi>Operation</hi> ſo pleaſant, in my weak and ſore Con<g ref="char:EOLhyphen"/>dition; I was incouraged to expect great and good EFFECTS from it. The morning following I took another
+<hi>Doſe,</hi> which operated much like the firſt, but ſooner in the day; I took the third day, the fourth and the fifth in like manner; dur<g ref="char:EOLhyphen"/>ing which time I was not at all ſick at Stomack, nor moleſted any way by the
+<hi>Medi<g ref="char:EOLhyphen"/>cin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> but as if I had taken no <hi>Phyſick,</hi> ſave only two or three <hi>Stools</hi> in the day, and <hi>
+                  <g ref="char:V">Ʋ</g>rine</hi> more freely, and paler than before, ſent forth alſo with more ſtrength. Thus my hopes began to ſpring, and I was wonderfully pleaſed with the <hi>Medicine</hi> for its <hi>Operation,</hi> and the <hi>Effects,</hi> and began to be <hi>Lighter</hi> in <hi>Body,</hi> and turn with leſs pain in Bed.</p>
+            <p>Then I intermitted one day, forbearing the <hi>Medicine;</hi> but the day following I be<g ref="char:EOLhyphen"/>gun again, and took four days more together, obſerving dayly the <hi>Stools</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>rine;</hi> in which was much purulent Matter coming both ways, by <hi>Stools</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>rine.</hi> Upon this the
+<hi>Tumor</hi> began to fall, and leſſen dayly: the <hi>Apoſtemated</hi> Matter being thus con<g ref="char:EOLhyphen"/>ſtantly evacuated by the help of the <hi>Medicine;</hi> which brought it away with ſo much caſe, as if it had been but the healing of a Cut Finger; it made me <hi>Eat, Drink,</hi> and <hi>Sleep</hi> well; but obſerved convenient <hi>Dyet;</hi> and was ſenſible of any Irregularity com<g ref="char:EOLhyphen"/>mitted, by ſome Indiſpoſition afterwards; for, going abroad once too ſoon, and<pb n="9" facs="tcp:50131:5"/>drinking the quantity but of a Pint of
+<hi>Ale:</hi> at return home about five of the Clock, I began to be in pain at the part affected (declaring a diſguſt to the Liquor) which increaſed to that degree in an hours time, that I was tortured in that part, ſo as I never felt the like, cauſing me to <hi>Vomit, Purge, Sweat,</hi> and
+<hi>Faint;</hi> which continued thus almoſt three hours, and then ceaſed ſuddenly, without the help of any thing; not being able to ſuffer a Spoonful of any <hi>Cordial</hi> to come within my Lips: this <hi>Fit</hi> being over, I was chearful as before, and ſlept well that Night.</p>
+            <p>The next morning, and the morning following, I took the
+<hi>Medicine</hi> again, which operated as uſually before, with benefit and pleaſantneſs; then I omitted a day, and took two days more together; and after another days Intermiſſion, two days again the <hi>Medicine.</hi>
+            </p>
+            <p>Still <hi>Purulent</hi> Matter, but little; and ſometimes
+<hi>Bloody</hi> Matter came away at every days <hi>Operation;</hi> but much eaſier in Body: the <hi>Tumyfied</hi> part now flat, and not ſore, that I could lay my hand upon it without pain, and the <hi>Reins</hi> pretty firm, that I could ſtoop or walk with eaſe; but ſtill ingaged to continue the uſe of the <hi>Medicine,</hi> and then I took it every other day, for almoſt a <hi>Fortnight;</hi> but changed the times, and took it only at Nights, going to bed; and reſted very well with it until the time of riſing, and then a motion downwards.</p>
+            <p>Obſerving conſtantly both <hi>Stools</hi> and
+<hi>
+                  <g ref="char:V">Ʋ</g>rine,</hi> I was ſatisfyed the Cure came on ve<g ref="char:EOLhyphen"/>ry hopefully: and finding that the days of taking were better than when I forbore, and perceiving ſome ſmall prickling pains at times in the <hi>Flank,</hi> and under the
+<hi>Os pubis</hi> eſpecially at times of making <hi>Water,</hi> with ſome ſmall appearance of corrupt Matter; I durſt not yet leave off the
+<hi>Medicine,</hi> but kept the Paſſages open, for a full draining out of all the Corruption, leaſt any <hi>Relict</hi> lurking behind (though pretty quiet at preſent) might beget a freſh diſturbance.</p>
+            <p>And now I began to take the <hi>Medicine</hi> with the intermiſſion of two days; and con<g ref="char:EOLhyphen"/>tinued ſo for about a
+<hi>Fortnight,</hi> and went abroad the intermitting days. Afterwards I uſed it twice in a <hi>Week</hi> only, and went abroad thoſe days I took the Medicine, the Weather being moderate, and my ſelf being much more able in Body than before.</p>
+            <p>And now by the good <hi>Providence</hi> of God, directing me to this <hi>Soverain</hi> means (far beyond all that ever I knew) I am healed of that <hi>
+                  <g ref="char:V">Ʋ</g>lcer</hi> and <hi>Apoſtem;</hi> which I muſt wholly aſcribe to the Vertues of this <hi>Medicine.</hi> And thus much I thought my ſelf ingaged to declare to the World, in teſtimony of Thankfulneſs to the
+<hi>Almighty,</hi> and Charity to others, whoſe Lives may be in as great
+<hi>Jeopardy,</hi> and know not where to find ſuch eaſie and ſecure
+<hi>Help;</hi> that as it was the ſole Inſtrument of ſaving my Life, ſo it may be alſo of many others, though in different Caſes.</p>
+            <p>And having thus briefly given you the true and bare
+<hi>Narrative</hi> of this <hi>Cure,</hi> and the Matters of <hi>Fact;</hi> give me leave to comment a little upon the whole <hi>Story,</hi> and re<g ref="char:EOLhyphen"/>mark what may be conſiderable. <hi>Miſer eram, ut fortunatus eſſem:</hi> Probably I had never known this good and great <hi>Medicine,</hi> had not
+<hi>Neceſſity</hi> urged me ſo carneſtly upon the <hi>Invention,</hi> and full tryal thereof upon my ſelf; whereby I am the more aſ<g ref="char:EOLhyphen"/>ſured
+<pb n="10" facs="tcp:50131:6"/>of the excellent Properties and Worth thereof. Had I uſed this Medicine ſooner, I had prevented the <hi>Tumor</hi> gathering; at leaſt, the <hi>Apoſtemation,</hi> by <hi>diſſolving</hi> and
+<hi>diſcuſſing</hi> the coagulate Matter, before <hi>Suppuration;</hi> but being fixed ſo long before, and inclinable to <hi>Suppurate,</hi> I muſt undergo the hazard of an <hi>Apoſtem</hi> ſpreading and breaking within the Belly (which might have proved <hi>Cancerous</hi>) and the danger of
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roding the Veſſels of thoſe
+<hi>Parts,</hi> and rotting ſome part of the <hi>Meſentery:</hi> but ply<g ref="char:EOLhyphen"/>ing this Medicine diligently, and undiſturbedly from any other, broke the
+<hi>Apoſtem</hi> timely, diſcharged the <hi>Corruption</hi> freely, ſafely, and with much eaſe. Had this <hi>Apo<g ref="char:EOLhyphen"/>ſtem</hi> been prevented by the timely uſe of this Medicine, I had not then ſo certainly known its prevailing, healing power in ſuch dangerous Caſes: but the <hi>Author</hi> was made the firſt <hi>Experimentor</hi> of his new <hi>Medical Engine,</hi> and that in a deplorable and extream Caſe. Some purchaſe <hi>Knowledge</hi> by <hi>Study;</hi> others by <hi>Travel,</hi> and I by my own
+<hi>Sickneſs;</hi> and that not a ſmall one; for it almoſt coſt me my Life; <hi>Quanti, quanti, bene emitur, non me poenitet.</hi>
+            </p>
+            <p>This <hi>Extract</hi> performed all the requiſite Offices belonging to this great <hi>Cure:</hi> It acted alone the various
+<hi>Operations</hi> of divers Medicines, which ſucceſſively and metho<g ref="char:EOLhyphen"/>dically are uſed in ſuch Caſes. This ſingle Medicine, but once in twenty four hours taken, and ſometimes but once in forty eight hours, performed the whole Work, and ſuppl'yd the place of a numerous train of Medicines: no <hi>Fomentations, Cataplaſms, <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>guents,</hi> or
+<hi>Liniments</hi> externally applyed; as uſually in like Caſes: no Purging
+<hi>Pills, Potions,</hi> or <hi>Clyſters:</hi> No <hi>Vulnerary Decoctions,</hi> or Cooling <hi>Juleps:</hi> no <hi>Sarcotick Elect<g ref="char:EOLhyphen"/>uaries,</hi> or <hi>Epulotic Bolus,</hi> internally uſed; as method requires in ſuch Diſ<g ref="char:EOLhyphen"/>eaſes.</p>
+            <p>This <hi>Medicine alone,</hi> acted every <hi>Scene;</hi> this was the <hi>Traumatick,</hi> the <hi>Digeſtive,</hi> the <hi>Abſterſive,</hi> the <hi>Purgative,</hi> the <hi>Anodyne,</hi> the <hi>Cordial,</hi> the
+<hi>Julep,</hi> that allayed <hi>Fer<g ref="char:EOLhyphen"/>menting</hi> Matter, and <hi>Febrile</hi> Heats; the Opening <hi>Clyſter,</hi> the Diſcuſſing
+<hi>Fomentation,</hi> the mollifying <hi>
+                  <g ref="char:V">Ʋ</g>nguent</hi> and Suppurating
+<hi>Cataplaſm.</hi> This was, <hi>inſtar omnium, omni<g ref="char:EOLhyphen"/>buſque praeſtantius.</hi> Had I been to run the <hi>Gantlope</hi> through ſo many various particu<g ref="char:EOLhyphen"/>lar <hi>Chance Medicines</hi> (as the neceſſity of ſo great a Diſeaſe, and long of Courſe would require) with Paper
+<hi>Recipes,</hi> and unknown Caſual <hi>Shop-Medicines;</hi> I had been fairly brought to Bed; my head had layn low enough by this time, I do not doubt: but this <hi>Medicine</hi> alone did ſufficiently and fully anſwer all <hi>Indications,</hi> that <hi>Medical Art</hi> doth require in that, or like Caſes; and the <hi>Operations</hi> were as I could wiſh: what more could be deſired? Had I procured half a dozen <hi>Phiſitians</hi> and
+<hi>Chirurgeons,</hi> they could not have done more, or better, than what this ſingle Medicine performed; and per<g ref="char:EOLhyphen"/>haps, not ſo well: varyous
+<hi>Opinions,</hi> and differing <hi>Conjectures,</hi> ariſing from many
+<hi>Heads,</hi> frequently diſturbs; and ſometimes, fruſtrates a
+<hi>Cure;</hi> eſpecially, when Conjectural New-formed Medicines, <hi>pro re nata,</hi> muſt be put upon the Work; which moſt commonly are the reſult of <hi>Conſultations;</hi> every man muſt have a Oare in the <hi>Boat;</hi> ſome pulls one way, and ſome another.</p>
+            <p>I committed the whole <hi>Cure</hi> to this <hi>Medicine; not at a venture;</hi> but as ſatisfyed (after a few days tryal) nothing in
+<hi>Medical Art</hi> could do more ſecurely and effectu<g ref="char:EOLhyphen"/>ally; it kept my
+<hi>Body Open,</hi> at <hi>Eaſe,</hi> and in good <hi>Temper,</hi> free from any <hi>Feaver,</hi> the whole Courſe: it diſcharged the
+<hi>Apoſtemated</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>lcerous</hi> Matter dayly, by <hi>Stools</hi>
+               <pb n="11" facs="tcp:50131:6"/>and <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>:</hi> it never failed me a day, but performed ſteddily and conſtantly, with ſo much eaſe and pleaſantneſs, that I could
+<hi>Eat</hi> and <hi>Drink, Sleep</hi> and <hi>Study,</hi> as if little ailed me; when dangerouſly ſeized with an <hi>
+                  <g ref="char:V">Ʋ</g>lcer</hi> in the
+<hi>Kidney,</hi> and a <hi>Tumor Apoſte<g ref="char:EOLhyphen"/>mating</hi> in the <hi>Belly.</hi> All this while I was double concerned: <hi>Firſt,</hi> for my <hi>Life,</hi> as be<g ref="char:EOLhyphen"/>ing at Hazard: and <hi>ſecondly,</hi> for the Reputation of the
+<hi>Medicine;</hi> which would have troubled me, had it not performed ſo clearly and manifeſtly excellent, althouuh I had eſcaped: for I was much pleaſed in the hopes of this <hi>Medicine;</hi> that it would be the Inſtrument of ſaving many Lives; and that it might prove the
+<hi>None-ſuch; perinde ac<g ref="char:EOLhyphen"/>cidit; quod mihi maximè optatum fuit.</hi>
+            </p>
+            <p>But if I had dyed by ſome accidental miſcarriage in this dangerous Sickneſs (as before mentioned by my adventure) notwithſtanding I muſt needs have extolled the <hi>Medicine,</hi> offering ſo fairly for a
+<hi>Cure,</hi> and performing its Operations ſo admirably; that if the inevitable time of dying was come, the <hi>Medicine</hi> could not be charged with <hi>Inſufficiency,</hi> ſince nothing can be expected more from a
+<hi>Medicine,</hi> than due <hi>Operations;</hi> and all the Medicines of this Art could do no more than this did, and I queſtion, whether ſo much, and ſo well; for where there is variety deſigned metho<g ref="char:EOLhyphen"/>dically, and by turns to act ſeveral parts, ſome do it well, and ſome ill; that after much ſtrugling through hopes and Fears, by better and worſe days; if the
+<hi>Sick</hi> do at laſt recover, 'tis hard to ſay what effected, or conduced towards the <hi>Cure;</hi> ſo dubious commonly are the Methods of
+<hi>Phyſick,</hi> by various Medicines, even where the moſt and ſeeming greateſt means are uſed.</p>
+            <p>But notwithſtanding all this great Performance upon my ſelf in various <hi>Operati<g ref="char:EOLhyphen"/>ons,</hi> and much Experience by repeated Uſe in my own
+<hi>Cure:</hi> I was deſirous of ſeeing tryals upon <hi>Others</hi> in different Caſes, to confirm the Opinion I had of this <hi>Medi<g ref="char:EOLhyphen"/>cine;</hi> and therefore I waved the Uſe of other proper and good Medicines, for pe<g ref="char:EOLhyphen"/>culiar
+<hi>Operations</hi> and Purpoſes, in the Cure of ſeveral Infirmities and Diſeaſes, in divers Perſons, and proſecuted only with this
+<hi>Catholick Extract;</hi> from which ſucceſsful Ex<g ref="char:EOLhyphen"/>periments and Proceedings therein, I am further informed, and fully ſatisfyed of the
+<hi>Worth</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ſefulneſs</hi> of this <hi>Medicine,</hi> both in
+<hi>Young</hi> and <hi>Old,</hi> and of both <hi>Sexes,</hi> va<g ref="char:EOLhyphen"/>riouſly diſeaſed: the Particulars whereof to relate of each Perſon, would be too te<g ref="char:EOLhyphen"/>dious, and ſwell this <hi>Narrative</hi> to inconvenient Bigneſs and Price: I ſhall therefore compendiouſly ſumm up the ſpecial Properties and Vertues wherewith this Medicine is endowed, and by what <hi>Operations</hi> it doth perform the ſame.</p>
+            <p>I have found this <hi>Medicine</hi> to be moſt effectual, for
+<hi>Cleanſing</hi> and <hi>Purifying</hi> foul or corrupt decaying Bodies; gently and gradually ſearching all parts and places, where ſuch Matter ſettles and lodgeth; and that you will find by what comes from you both ways; for your <hi>Stools</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>rine</hi> will be ſtronger ſcented than at other times; and you will ſee ſuch filthy Stuff brought away, as you did not thivk remained within you: it makes the Body <hi>wholeſome, clean,</hi> and <hi>ſweet,</hi> drawing out all Imputity, and ſtinking corrupt Humors, without the help of <hi>Iſſues:</hi> for by the uſe of this ſometimes; you may be diſcharged ſafely from the troubleſome dayly dreſſing of ſtinking <hi>Iſſues;</hi> and at beſt, they are but <hi>Remedia à poſteriori;</hi> to abate the Effects and product Matter of
+<hi>Diſeaſes:</hi> but this <hi>Medicine</hi> is <hi>Remedium à priori;</hi> applying to the Fountain and<pb n="12" facs="tcp:50131:7"/>Spring from whence ſuch iſſuing <hi>Humor</hi> flows, and where it is bred: this
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> only evacuates what is generated, but alſo prevents the generating of ſuch noxious dege<g ref="char:EOLhyphen"/>nerate matter. 'Tis a good Invention, and uſeful ſometimes to <hi>Embalm</hi> and ſecure the Dead from <hi>Putrefaction,</hi> and ſending forth noyſome Scent: but this hath a more excellent <hi>Art,</hi> that preſerves living Bodies from putrid <hi>humors,</hi> which annoy and de<g ref="char:EOLhyphen"/>cay the <hi>Life.</hi> It is Cuſtomary with many to take a <hi>Purge,</hi> or two, now and then; and it is well thought on, for cleaning the Body, to prevent <hi>Diſeaſes</hi> breeding, or grow<g ref="char:EOLhyphen"/>ing and ſpreading; but if then alſo they were careful and knowing in the choice of their Medicine to do it with, this alſo is neceſſary: all <hi>Purging</hi> is not <hi>Purifying;</hi> but that which is perform'd by a <hi>wholeſome, balſamick, purifying</hi> Medicine. If you rub the duſt, or durt from <hi>Iron</hi> with a <hi>wet Cloth,</hi> it ſoon after contracts a <hi>Ruſt,</hi> and your cleaning was to little purpoſe: and if you cleanſe Man's Body with the common <hi>vi<g ref="char:EOLhyphen"/>rulent Stimulators,</hi> falſely denominated <hi>Purgatives;</hi> it will ſoon want cleaning again: they <hi>taint</hi> alſo, ſtamping ill Impreſſions upon the Parts, and lay a Foundation for a future Work; it is therefore very conſiderable, with what Medicine you cleanſe the Body; eſpecially, <hi>Craſy</hi> and
+<hi>Weak:</hi> for this not only <hi>cleans</hi> and <hi>purifies,</hi> but alſo leaves a <hi>ſtrengthening</hi> power behind, whereby the Parts perform their <hi>Functions</hi> more vigorouſly, and continue longer in their Duties.</p>
+            <p>A grand Complaint, and moſt frequent amongſt the
+<hi>Infirme</hi> and <hi>Diſeaſed,</hi> is <hi>Ob<g ref="char:EOLhyphen"/>ſtructions;</hi> herewith thouſands are grieved and complain; ſome in this <hi>Part,</hi> and ſome in that: the <hi>Lungs,</hi> the <hi>Liver,</hi> the <hi>Spleen, Meſentery, Pancreas, Matrix, Kidneys, Guts, Gall,</hi> &amp;c. and from
+<hi>Obſtructions</hi> in theſe parts, a multitude of <hi>Diſeaſes</hi> take their <hi>riſe,</hi> are <hi>continued,</hi> or <hi>aggravated</hi> thereby; elſe <hi>Phyſitians</hi> are very wrong in their Judgments and Determinations. Now here is a <hi>Medicine</hi> fit for the purpoſe, for
+<hi>Yours,</hi> and <hi>Yours:</hi> this is the beſt <hi>Picklock</hi> Inſtrument for opening of <hi>Obſtructions</hi> or <hi>Stoppages</hi> that can be: it unbars and unlocks all Paſſages that are cloſed, clogg'd, or ſtopt up: removing and carrying away all the condenſed or coagulate, viſcous and ſlimy obſtructing matter; lubrefying and dilating the
+<hi>Paſſages</hi> for a free tranſition thereof: and herein this
+<hi>Medicine</hi> hath given ample teſtimony of its Ability and Per<g ref="char:EOLhyphen"/>formance.</p>
+            <p>Now from this and the former <hi>Operation,</hi> Viz.
+<hi>Cleanſing,</hi> ſo performed; a nume<g ref="char:EOLhyphen"/>rous train of
+<hi>Diſeaſes</hi> are carryed off, and ſubdued; as, <hi>Scurvey, Dropſies, Hypochon<g ref="char:EOLhyphen"/>driac Melancholy, Jaundies, Spleen, Cholick,</hi> Green
+<hi>Sickneſs,</hi> Flatulent <hi>Fumes, Hy<g ref="char:EOLhyphen"/>ſterical Fits, Feavers, Quinſies, Pluriſies,</hi> &amp;c. There being no Morbific matter left to breed on, or to feed on.</p>
+            <p>How many <hi>Feavers</hi> depend upon <hi>Obſtructions,</hi> by
+<hi>morbous, depraved</hi> matter lodged, or lockt up? Very many, and very often, this is the generating <hi>Cauſe,</hi> and this is the continuing
+<hi>Cauſe;</hi> you may then give <hi>Julep</hi> upon <hi>Julep,</hi> and play the fool till <hi>Death's</hi> day, and never cure the <hi>Feaver.</hi> Theſe <hi>Obſtructions</hi> cauſe <hi>Pain,</hi> this <hi>Pain</hi> raiſeth a <hi>Feaver;</hi> and oftentimes, an <hi>Inflammation</hi> to the Bargain; this <hi>Inflammation,</hi> a <hi>Tu<g ref="char:EOLhyphen"/>mor,</hi> internal and ſeldom perceived: this <hi>Tumor</hi> ſometimes <hi>Apoſtemates,</hi> or becomes
+<hi>Scirrhous</hi> and <hi>Indurate;</hi> or <hi>Gangrens,</hi> and kills the
+<hi>Patient,</hi> never coming to any <hi>Suppuration;</hi> and then the Patient is ſaid to dye of a <hi>Feaver;</hi> they could not quench this
+<hi>Feaver:</hi> no, I believe not, it was not like to be done by
+<hi>Juleping</hi> and <hi>Clyſtering,</hi>
+               <pb n="13" facs="tcp:50131:7"/>and
+<hi>bluſtering</hi> to no purpoſe. And after this manner ſo many thouſands have dyed of a <hi>Feaver;</hi> thanks to the Ignorance of the pretending <hi>Curers.</hi> And ſuch <hi>Caſes</hi> inter<g ref="char:EOLhyphen"/>nal as theſe, come oftener into the <hi>Phyſitians</hi> Practice, than taken notice of; and
+<hi>thouſands</hi> have dyed upon this account, when the true ſtate of the Caſe was not di<g ref="char:EOLhyphen"/>ſcerned; but the <hi>Patient</hi> dyed of a
+<hi>Feaver;</hi> that was apparent, and aimed at; the reſt was
+<hi>latent,</hi> and therefore proved Mortal: this <hi>Medicine</hi> can find out a <hi>Diſeaſe,</hi> when the <hi>Phiſitian</hi> ſees it not, and knows not what to aim at.</p>
+            <p>But here is an <hi>Engine</hi> to quench a <hi>Feaver,</hi> ſurer and ſafer than with <hi>Buckets</hi> full of <hi>Juleps.</hi> But will this <hi>Medicine</hi> remove <hi>Obſtructions?</hi> Then it will cure many a <hi>Diſ<g ref="char:EOLhyphen"/>eaſe:</hi> yes, if it were a heap of <hi>Gravel</hi> in the
+<hi>Kidneys</hi> or <hi>Bladder,</hi> it will carry it away, and ſweep the place. I perceive now, Dame <hi>Nature, Medicatrix,</hi> with the help of this Inſtrument, will cure a multitude of <hi>Diſeaſes,</hi> if there were never a <hi>Doctor</hi> and <hi>Pothecary</hi> to be found. This is a far better <hi>Medicine,</hi> than any Paper Medicine; the <hi>Recipes</hi> and
+<hi>Decipes,</hi> the <hi>Pot-guns</hi> and <hi>Crackers,</hi> that make a noiſe, and do no execu<g ref="char:EOLhyphen"/>tion; yes, ſometimes they do; <hi>mortal</hi> Execution.</p>
+            <p>For Pains of the <hi>Head</hi> or <hi>Limbs, Stitches,</hi> or
+<hi>Gripes</hi> in the Body, <hi>Reumatiſm,</hi> or <hi>Gout;</hi> this
+<hi>Medicine</hi> is moſt proper means, and very prevailing, to free all parts of the Body from <hi>acrid, ſharp, punging</hi> and <hi>corroding Humors;</hi> the Cauſes of ſuch reſtleſs, painful aſſaults that moleſt you. And for ſuch as have the <hi>Gout,</hi> or incline thereto, this is both <hi>Preventive,</hi> to keep off, and a <hi>Curative</hi> Remedy in the <hi>Paroxiſm,</hi> or Fit; and is the ſafeſt allaying, eaſing means, in thoſe extream tormenting Caſes, when <hi>Phy<g ref="char:EOLhyphen"/>ſitians</hi> dare not give a Medicine for fear of the danger, and of making them worſe: but this comfort they will adminiſter; when the Fit is off, they will then preſcribe a Courſe of <hi>Phyſick:</hi> Thank you for nothing; truly
+<hi>Doctor,</hi> if you cannot help me when I am tormented with <hi>pain,</hi> you ſhall not meddle with me when I am at <hi>eaſe;</hi> for you are not likely to do me any good.</p>
+            <p>To aſſiſt the <hi>Genital</hi> Function, and remove the Impediments of thoſe <hi>Organs,</hi> be<g ref="char:EOLhyphen"/>longing to that Faculty, for the better and due Performance of their Offices; this <hi>Me<g ref="char:EOLhyphen"/>dicine</hi> is ſingular good: it enables feeble inſufficient Perſons by cleanſing and giving ſtrength to thoſe Parts, and is probable good means againſt
+<hi>Barrenneſs.</hi> 'Tis the beſt Remedy for weak <hi>Backs, Loyns,</hi> or <hi>Genitalls;</hi> for <hi>Strains</hi> or <hi>Over Reaches;</hi> for
+<hi>Spermatick Waſting,</hi> and <hi>Seminal Iſſuing;</hi> to ſtay the
+<hi>Whites</hi> ſafely, by cleanſing and purifying; to digeſt a crude, thin, watery <hi>Seed,</hi> and reduce it to better Conſiſtence; by cleanſing the <hi>Spermatick Veſſels,</hi> and elaborating the
+<hi>Seed;</hi> it knits and roborates the <hi>Spine</hi> and <hi>Genitals</hi> of both Sexes.</p>
+            <p>For Diſeaſes appearing outward, declaring an ill habit of Body, and foulneſs of <hi>Blood;</hi> as when <hi>Spots, Pimples, Itch, Scabs, Puſtuls, Swellings,</hi> &amp;c. this <hi>Extract</hi> is very proper, for a more free Perſpiration; and to ſend forth by the <hi>Pores,</hi> for a purification of the <hi>Blood,</hi> and nutricious Juices of the Body.</p>
+            <p>For the <hi>Venereal Lues</hi> or <hi>Pox,</hi> and that long Train of Symptoms, which attend, and gradually follow this grand Diſeaſe, as <hi>Gonorrhaeas,</hi> ſharp <hi>
+                  <g ref="char:V">Ʋ</g>rine, Buboes, Pains, Scabs, Puſtuls, <g ref="char:V">Ʋ</g>lcers,</hi> &amp;c. This <hi>Catholic</hi> Medicine is incomparable for power, and moſt convenient for Privacy: being a <hi>Remedy</hi> ſo eaſily managed, and giving the moſt Liber<g ref="char:EOLhyphen"/>ty,<pb n="14" facs="tcp:50131:8"/>that can be allowed, if the Weather be not very bad to go abroad in: for its Ope<g ref="char:EOLhyphen"/>rations are ſo gentle, and this to be taken at Nights; that whil'ſt you ſleep, it is do<g ref="char:EOLhyphen"/>ing the Work that you deſire to be effected: and although other dogged, ill contriv<g ref="char:EOLhyphen"/>ed Medicines, do make the Diſeaſed look thin and ſuſpiciouſly; this enables them in body, and alſo puts a good face upon it, and you will not be worn down and enfeeb<g ref="char:EOLhyphen"/>led by this <hi>Medicine,</hi> as commonly by the untoward methods now practiſed.</p>
+            <p>To promote and ſet forward all <hi>Chirurgical</hi> Cures, that appear outward, and may be managed by the hand; this <hi>Medicine</hi> is moſt excellent and uſeful: for <hi>Wounds, Tumors, Contuſions, Apoſtems, <g ref="char:V">Ʋ</g>lcers, Cancers, Fistula's;</hi> and <hi>Gangreens,</hi> if not too far gone to a Mortification, nothing is more available and conducing towards a Cure; and put it forward when you are at a ſtand, by drawing off and evacuating all <hi>Hu<g ref="char:EOLhyphen"/>moral</hi> Feeding Cauſes, which continues, and keeps <hi>Sores</hi> from healing. But for the like Caſes internal; this
+<hi>Medicine</hi> does all the Work, and acts a dexterous <hi>Chirurge<g ref="char:EOLhyphen"/>ons</hi> part in thoſe places, where neither his eye can diſcern, nor his hand come to help you: then this Medicine is more helpful, and more to be depended on, than all the Practiſers in this Art: this alone will do the Work, if poſſible to be done. This <hi>Medicine</hi> will help you, to throw away your <hi>Crutches:</hi> and for a decayed rotten CARCASE, if poſſible to be reſtored, this is the <hi>Re<g ref="char:EOLhyphen"/>medy.</hi>
+            </p>
+            <p>
+               <hi>Chirurgery</hi> is a very fine <hi>Art;</hi> but I do not like the Craft, nor the Ignorance that ſome of thoſe Profeſſors are plentifully endowed with: they can dreſs and plaiſter up the
+<hi>Patient,</hi> but know little of the true Deſign and Myſtery of
+<hi>Curing:</hi> but he that is truly Knowing, Skilful in Healing, and Honeſt, is a man much to be eſteemed: ſuch are but few: elſe, what makes the <hi>Surgeon</hi> ſo long about <hi>Healing,</hi> in Caſes not ſo difficult? Becauſe he wants the right deſignment, and good internal Medicine to promote the Work. <hi>Healing</hi> ariſeth
+<hi>(primariò)</hi> from Nature within; not from <hi>Plaiſter</hi> and
+<hi>
+                  <g ref="char:V">Ʋ</g>nguent</hi> without: External Applications will not do, without good Internal Medicine, diſpoſing and inabling Nature for <hi>Healing,</hi> thereby to ef<g ref="char:EOLhyphen"/>fect the Cure: after ſix Months, and twelve Months tormenting, you ſhall have this comfortable News; your <hi>Leg,</hi> or your <hi>Arm</hi> muſt be chopt off, if you will ſave your Life: This is an After-Game to be played.</p>
+            <p>
+               <hi>Natura Corroborata</hi> — Is that the <hi>Quid agendum?</hi> That's eaſily ſaid; but, <hi>qui<g ref="char:EOLhyphen"/>bue auxiliis?</hi> What Medicines have you to do it with? <hi>Additu difficilia;</hi> they are not ſo ſoon found out: for want of theſe the <hi>Gangrens</hi> and
+<hi>Mortifications,</hi> too of<g ref="char:EOLhyphen"/>ten put a period to the <hi>Surgeon's</hi> Labour; and the Patient's Life. I have ſeen the woful Experience of this; and I have ſeen the joyful Experience of the other. <hi>Ab in<g ref="char:EOLhyphen"/>fortunio, fortunium:</hi> This <hi>
+                  <g ref="char:V">Ʋ</g>lcer</hi> and <hi>Apoſtem</hi> taught me to be a
+<hi>Surgeon;</hi> and this two Months <hi>Cure</hi> inform'd me more; than ſeven years <hi>Hoſpital</hi> Practice could teach me: true, I might learn there the Art of <hi>Diſmembring,</hi> how to cut off <hi>Arms</hi> and
+<hi>Legs</hi> cleverly: but I learned a better Art than that; namely, how to ſave <hi>Arms</hi> and <hi>Legs,</hi> and <hi>Bodies</hi> from mangling.
+<hi>Amputation</hi> would not ſo frequently be the mode of <hi>Curing;</hi> nor the extream <hi>Remedy</hi> of ſaving the Life; if the true Art of 01
+<pb n="15" facs="tcp:50131:8"/>
+               <hi>Healing</hi> was rightly known. I might learn there to
+<hi>Cut</hi> &amp; <hi>Carbonado:</hi> but here I learn<g ref="char:EOLhyphen"/>ed the Art of ſleeping in a whole Skin; that's better. I ſaved both <hi>Belly</hi> and
+<hi>Back</hi> from ripping up, with the help of this <hi>Medicine</hi> only: and for theſe good <hi>Deeds,</hi> I muſt never forget this good
+<hi>Medicine.</hi>
+            </p>
+            <p>For inward <hi>Bruiſes,</hi> to prevent or diſſolve coagulate <hi>Blood;</hi> to diſcuſs and diſſi<g ref="char:EOLhyphen"/>pate collected
+<hi>Humors,</hi> reſorting thither, and fixing; to defend and ſtrengthen the grieved part; nothing more availeable. And as for <hi>Fractures</hi> and
+<hi>Diſloctations,;</hi> which neceſſarily require a skilful
+<hi>Surgeon's</hi> hand, &amp; outward Applications: yet for in<g ref="char:EOLhyphen"/>ward Medicine, to keep the Body in due temper, and to promote ſuch Cures, this is moſt helpful and aſſiſting to Nature, for a ſafe and more ſpeedy performance thereof. Upon a review therefore of what hath been truly ſaid, this <hi>Medicine</hi> doth appear the moſt commodious Medicinal Proviſion (as <hi>ready, durable,</hi> and <hi>portable</hi>) for <hi>Armies, Navies,</hi> and <hi>Hoſpitals:</hi> compleated for all emergent Occaſions, and the moſt effieaci<g ref="char:EOLhyphen"/>ous means that can be uſed; for <hi>Wounded, Contuſed, Apoſtemated, <g ref="char:V">Ʋ</g>lcerated, Maimed</hi> Perſons, and ſick People; nothing Superior, nor equal to it now in Practice.</p>
+            <p>It evacuates by <hi>Stool,</hi> cleanſeth by <hi>
+                  <g ref="char:V">Ʋ</g>rine,</hi> evaporates by the <hi>Pores,</hi> expectorates and clears the
+<hi>Breaſt.</hi>
+            </p>
+            <p>Promotes the <hi>Digeſtions,</hi> removes
+<hi>Obſtructions,</hi> expells <hi>Wind, Fumes,</hi> and
+<hi>Vapours.</hi>
+            </p>
+            <p>Roborates and ſtrengthens the <hi>Nerves, Tendons, Ligaments, Membranes</hi> and <hi>Fibers;</hi> enabling them for Extenſion, Retenſion, Expulſion and Tranſmiſſion.</p>
+            <p>Prevents and checks <hi>Febrile Heats,</hi> and <hi>Turgid Fermentations.</hi>
+            </p>
+            <p>Allays <hi>Pain,</hi> procures <hi>Reſt, Heals</hi> admirably.</p>
+            <p>A <hi>Reſtorative,</hi> to retrive a <hi>Conſumptive, Waſting Body:</hi> and excellent for ſuch as are <hi>Phthiſical, Aſtmatic,</hi> or have a ſtinking <hi>Breath;</hi> opening the Pipes of the
+<hi>Lungs,</hi> clean<g ref="char:EOLhyphen"/>ſing away <hi>Phlegm,</hi> or <hi>putrid</hi> Matter by
+<hi>Expectoration;</hi> helps <hi>Coughing, Wheeſing,</hi> and and
+<hi>Shortneſs</hi> of <hi>Breath;</hi> and for <hi>tabefyed, decayed, weak Lungs;</hi> nothing likt it. A <hi>Perfume</hi> to ſweeten a rank, corrupt Carcaſe. A <hi>Catholic</hi> Inſtrument, ſerving <hi>Nature's</hi> Conveniency and Neceſſity, applying fitly to all Caſes.</p>
+            <p>This is a Compoſition, <hi>ex tribus: Aliment, Condiment,</hi> and <hi>Medicament;</hi> here is <hi>Food,</hi> and <hi>Sauce</hi> to it; and
+<hi>Medicine</hi> in the Rere, for <hi>Digestion (extra Jocum).</hi> This is a ſtrange Compound indeed, as ever was; but it is a true one; and the beſt (if I may be Judge) that ever was yet; at leaſt, the beſt that I ever ſaw, or can hear of; and I have had the view of thouſands, upon Inquiry and Search for many years, in Print and Manuſcripts: beſides my own
+<hi>Experiments</hi> and <hi>Tryals,</hi> not a few, for ſatis<g ref="char:EOLhyphen"/>faction. It carries the beſt face, and makes the moſt hopeful and innocent Appear<g ref="char:EOLhyphen"/>ance, upon review of the Materials, and the Deſignment of Preparation: but that's not all; it anſwers in <hi>Practice,</hi> and proves as good, or better than it promiſeth: for in all the dangerous and difficult Caſes that this
+<hi>Medicine</hi> hath been uſed, I know not of any Miſcarriage, or ill
+<hi>Operation</hi> happening in the weakeſt and tendereſt Bodies; but much to the ſatisfaction of all: <hi>Intaminatis fulget ho<g ref="char:EOLhyphen"/>noribus.</hi>
+            </p>
+            <p>
+               <pb n="16" facs="tcp:50131:9"/>This is a <hi>Jewel</hi> ſir for the Cabinet of <hi>Princes;</hi> and I do believe, (not without reaſon, but without Vanity or Boaſting) that they have not ſuch help as this, when they ſtand in need.</p>
+            <p>The Learned Profeſſors of this Art, perhaps may be angry, to ſee a ſingle <hi>Medi<g ref="char:EOLhyphen"/>cine</hi> vieing with all their Skill and Practice: but who can help it? <hi>Truth</hi> muſt be ſpoke; this <hi>Medicine</hi> fears no <hi>Frowns,</hi> and begs no <hi>Favour;</hi> becauſe 'tis able to ſtand a Tryal, and abide the Teſt; this is no Cheat nor Brag (we ſcorn thoſe Tricks) it will do that which ſometimes they cannot do with a whole Shop of Medicines: There is no ſuch Method recorded upon the <hi>Files;</hi> nor no ſuch Medicine in the <hi>Shops.</hi>
+            </p>
+            <p>For <hi>Infants</hi> or <hi>Children</hi> that are troubled with
+<hi>Worms,</hi> or have <hi>hard</hi> and <hi>big Bel<g ref="char:EOLhyphen"/>lyes;</hi> this
+<hi>Medicine</hi> is excellent; either given inwardly, or applyed outward, as a
+<hi>Plaiſter</hi> upon the <hi>Navel,</hi> the breadth of your Palm.</p>
+            <p>'Tis a neceſſary <hi>Vade mecum,</hi> and a ſecure Companion for a Traveller; being both <hi>Phyſitian,</hi> and <hi>Pothecary;</hi> and
+<hi>Surgeon</hi> in many Caſes; as in all your Travels you ſhall not find the like, nor ſuch help to be purchaſed for your <hi>Gold.</hi> How ſadly are ſome expoſed, that fall ſick in ſtrange Places? What inconſiderable, (if not perni<g ref="char:EOLhyphen"/>cious) aſſiſtance in moſt places, as
+<hi>Phyſick</hi> is now managed? and in the beſt places it is ſpecious, but not what it ſeems to promiſe. This will <hi>Sail</hi> with you to
+<hi>Eaſt-India;</hi> and if there be no Occaſion in the Voyage (as ten to one there will) you may take it, or give it when you come home, and it will be then in full Power and Vertue. <hi>Ships</hi> and <hi>Shops,</hi> they are bravely provided! Ah! I know how; and I know both the <hi>Ship-Doctors;</hi> and the <hi>Shop-Doctors,</hi> that give out <hi>Bills, Recipès;</hi> what do you call them; the Paper Medicines they practice with; that imprudent late Invention, and pernitious Innovation. I have ſearcht the Medical
+<hi>Art,</hi> and Medicine <hi>Trade;</hi> from one end to the other: I have ſounded the <hi>Shallons,</hi> and the <hi>Deep:</hi> I know the
+<hi>Intrigues,</hi> the <hi>Blindes,</hi> and the <hi>Shams;</hi> (as well as the Excellency, and what is praiſe<g ref="char:EOLhyphen"/>worthy) and it is two to one, but you may know them ere long: but we are now up<g ref="char:EOLhyphen"/>on another buſineſs, the <hi>Catholic Medicine.</hi> But all this while, you know not how to uſe it, if you had it: I'll tell you; and I can inform you as well as any body; for I have taken it thirty times at leaſt, my ſelf; and I know how many, others have taken it; and the Effects.</p>
+            <p>The <hi>Doſe,</hi> or Quantity to be taken at once: the
+<hi>Manner</hi> how: and <hi>Times</hi> when; are thus.</p>
+            <p>A Man, or Woman may begin with half a <hi>Dram,</hi> for the firſt <hi>Doſe;</hi> which is about the quantity of a <hi>Haſel Nut-ſhell:</hi> next time a <hi>Dram</hi> weight: which is about the bigneſs of a large <hi>Nutmeg:</hi> and this is the moſt uſual
+<hi>Doſe</hi> for continuance after<g ref="char:EOLhyphen"/>ward: except ſome very ſtrong Bodies, that may proceed to a <hi>Dram</hi> and a half: a Child often years old, may take the Quantity of a <hi>Haſel</hi> Nut.</p>
+            <p>Take it upon a Knifes <hi>Point:</hi> but you may divide it into two or three parts, for the more eaſie ſwallowing; and a Spoonfull of warm Drink with each, to carry it down: (this was my way) or you may diſſolve the whole <hi>Doſe,</hi> in two Spoonfuls of<pb n="17" facs="tcp:50131:9"/>hot
+<hi>Drink;</hi> and take a Spoonful or two after, to waſh your mouth: or elſe you may put it in the pap of an <hi>Apple, Stew'd-prune,</hi> or ſuch like, and ſwallow it: either way will ſerve, as every one likes beſt. The Drink you take with it, may be <hi>White-Wine,</hi> and <hi>Spring-Water,</hi> equal Quantities mixt: I have taken it with <hi>Ale;</hi> with Small
+<hi>Beer;</hi> and with <hi>Milk;</hi> for Tryals: but <hi>Wine</hi> and
+<hi>Water</hi> together, I commend generally, as the beſt Vehicle.</p>
+            <p>The <hi>Times</hi> of taking this <hi>Medicine,</hi> moſt uſually, and beſt; is at Night, going to bed: for it doth not hinder Sleep; but rather procures quiet Reſt: and thoſe Nights you muſt eat but little; and not after ſeven of the Clock: but if any Perſon ſhall find any Inconvenience, by taking over Night; it may be taken early in the Morning, at four or five of the Clock, and ſleep after: about eight or nine of the Clock, you may drink a Draught of warm <hi>Ale,</hi> or <hi>Beer;</hi> but not Stale, or <hi>Whey</hi> in <hi>Summer.</hi> If the the <hi>Weather</hi> be not very bad; or the Weakneſs and Condition of Body, doth not forbid; you may go abroad without danger. And if occaſion requires; you may ſafely take this Medicine in <hi>Frosty</hi> Weather or <hi>Dog</hi> Days. I took it three or four times in a Week, the laſt great Froſt; but kept within. The Uſe of this Medicine, is to be continued a longer, or ſhorter time, according to the greatneſs of the Diſ<g ref="char:EOLhyphen"/>eaſe 01 or Cauſe. Take at firſt, three Nights together; intermit one Night, and take three Nights more: and in many Caſes this is enough: but if the Occaſion be grea<g ref="char:EOLhyphen"/>ter, requiring a further Proſecution; you may then proceed on, and take two Nights together, and intermit the third; afterwards you may take but every other day.</p>
+            <p>This is no rough, boiſterous <hi>Medicine;</hi> it makes no buſſe, nor gives any Diſturb<g ref="char:EOLhyphen"/>ance; but it works gently, cunningly, and privately, like a <hi>Mole</hi> under Ground: and you muſt give it due time to compleat the full Effects; but every days Ope<g ref="char:EOLhyphen"/>ration will incourage you to go on, by the preſent dayly advantages: therefore be not too haſty in your Expectation; if there be a difficult piece of Work to be done; and leave not off the <hi>Medicine</hi> too ſoon; but give the full tryal of its Effi<g ref="char:EOLhyphen"/>cacy and Virtue: your Diſeaſe came on by <hi>degrees;</hi> and it muſt go
+<hi>gradually</hi> off: and impute not your Miſcarriages, your improper, unſeaſonable, or inſufficient <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> of this means, to the deficiency of the Medicine; which cannot Cure, unleſs prudently uſed; and be careful to avoid irregular Living, during the uſe hereof.</p>
+            <p>But all this is to little purpoſe; at leaſt, not to your advantage; if you know not where to have this good <hi>Medicine:</hi> to conceal it, were a <hi>Crime;</hi> and to confine this moſt uſeful Medicine to a private Practice only; were againſt the Rule of Charity: how acceptable would this be to ſuch, as are in deſperate Caſes; who commonly are expoſed to deſperate Medicines, and ill contrived Methods? Therefore this Me<g ref="char:EOLhyphen"/>dicine is made thus publick, for their help: and for Conveniency to ſuch perſons; either of the <hi>Bookſellers,</hi> for whom this is printed; named in the <hi>Title-Page:</hi> they will procure the Medicine for ſuch as deſire it; without their further trouble. And although this <hi>Magnal</hi> might reaſonable be valued at the price of <hi>Gold,</hi> weight for weight: but then the meaner ſort would be barr'd from the uſe of ſo helpful a
+<hi>Re<g ref="char:EOLhyphen"/>medy;</hi> therefore it is ſo appointed, to be purchaſed for a little; that they may ſhare<pb n="18" facs="tcp:50131:10"/>in the benefit hereof, which will ſave both <hi>Lives</hi> and <hi>Pounds;</hi> and to this I can write
+<hi>probatum eſt:</hi> in relation to my ſelf and others: for what do you think my great Cure coſt me with this <hi>Medicine?</hi> Not above thirty Shillings, I may truly ſay: which had it been managed by the common method of Phyſick, as now practiſed; I could not expect the Charge of to be leſs than 30 or 40 pounds: then I am beholden to this <hi>Medieine,</hi> as the Inſtrument that ſaved both my Life and my Purſe.</p>
+            <p>I fared much better with this ſingle <hi>Medicine,</hi> than a
+<hi>Gentleman</hi> did (that I know) with all his Method of various Medicines; who for the Cure of his <hi>Ague</hi> conſulted three able
+<hi>Phyſitians</hi> in and about <hi>London;</hi> who had of him ſevenſcore <hi>Guineys</hi> for their good Advice, during his Courſe of Phyſick: beſides the <hi>Pothecary's</hi> Bills, which came upwards of thirty pounds: and after all this Charge and all theſe Medicines; (you may imagine he had good ſtore, or great ſtore of them for his Money:) the Patient went into the Countrey uncured; carrying his <hi>Ague</hi> along with him.</p>
+            <p>There is much more to be ſaid concerning this <hi>Medicine;</hi> having been proved, and approved by many: the great <hi>Performances</hi> and admirable <hi>Effects</hi> whereof, you will have a particular Account the next Opportunity.</p>
+            <p>It is time now to end our Diſcourſe; I have been ſomething longer than intended; but the Importance of the Matter being no ſmall thing; I could not paſs it over ſlightly: it was that which nearly concerned my Life; and here is enough to concern <hi>Yours;</hi> and you know not how ſoon it may come to the <hi>Tryal:</hi> probably ſome part of it will, ſooner, or later; except ſudden <hi>Death</hi> prevents the Uſe of means: but few think of the Means, until Extremity urgeth; and then ſorry help they pro<g ref="char:EOLhyphen"/>cure; which commonly makes but a ſorrowful Concluſion of the Work.</p>
+            <p>I have not put my Name to this <hi>Narrative:</hi> (not that I am aſhamed to own any thing here delivered) but for ſome Reaſons beſt known to my ſelf: and deſire to be excuſed therein; at leaſt for the preſent: but if any Perſon hath ought to object, againſt any thing here aſſerted, either as <hi>Argument,</hi> or Matter of <hi>Fact;</hi> let him pro<g ref="char:EOLhyphen"/>duce; and the <hi>Author</hi> hereof promiſes a Reply, and a further Account of this Grand REMEDY.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:50131:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
